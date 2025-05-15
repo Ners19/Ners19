@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ners</h1>
+<h1 align="center">Hi 👋, I'm NERO</h1>
 <h3 align="center">A passionate frontend developer from the Philippines using Figma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ners19&label=Profile%20views&color=0e75b6&style=flat" alt="ners19" /> </p>
